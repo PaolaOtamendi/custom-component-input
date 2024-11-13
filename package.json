@@ -1,6 +1,7 @@
 {
-  "version": "0.0.0",
-  "name": "CHANGE_ME",
+  "vendor": "itglobers",
+  "name": "quick-order",
+  "version": "0.0.1",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
